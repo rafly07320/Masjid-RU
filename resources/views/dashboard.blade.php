@@ -1,4 +1,4 @@
-@extends('layouts.app_adminkit')
+@extends('layouts.admin')
 
 @section('content')
     <h1>HALO GES SELAMAT DATANG</h1>
